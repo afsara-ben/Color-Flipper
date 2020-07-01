@@ -1,2 +1,2 @@
 # Color-Flipper
-A simple javascript app which changes backgroung color upon clicking
+A simple javascript app which changes background color upon clicking
